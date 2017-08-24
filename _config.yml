@@ -121,10 +121,10 @@ title-separator: "-"
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
-#--- permalink asli dibawah ini
+# --- permalink asli dibawah ini --- #
 permalink: /:year-:month-:day-:title/
 
-#--- permalink hanya judul
+# --- permalink hanya judul --- #
 # permalink: /:title/
 paginate: 5
 
