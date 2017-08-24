@@ -3,7 +3,7 @@ layout: post
 title: Blog Jekyll Pertama Saya
 ---
 
-Sudah tahun 2017 saya baru tahu apa itu jekyll.... Kemana saja saya selama ini. Ya sudahlah lebih baik terlambat dari pada tidak sama sekali. Memang terlambat memnggunakan jekyll sebagai mesin post atau berbagi curhatan alias ngeblog dan pencitraan. Huft.......
+Sudah tahun 2017 saya baru tahu apa itu jekyll.... Kemana saja saya selama ini. Ya sudahlah lebih baik terlambat dari pada tidak sama sekali. Memang terlambat menggunakan jekyll sebagai mesin post atau berbagi curhatan alias ngeblog dan pencitraan. Huft.......
 
 Sudah tidak usah dijelaskan apa itu **Jekyll** tinggal Googling saja sudah banyak referensi mengenai Jekyll. 
 
