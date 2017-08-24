@@ -122,10 +122,10 @@ timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 #--- permalink asli dibawah ini
-#permalink: /:year-:month-:day-:title/
+permalink: /:year-:month-:day-:title/
 
-#--- edit permalink hanya judul
-permalink: /:title/
+#--- permalink hanya judul
+# permalink: /:title/
 paginate: 5
 
 kramdown:
