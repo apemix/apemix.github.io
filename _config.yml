@@ -123,7 +123,7 @@ markdown: kramdown
 highlighter: rouge
 # --- permalink asli dibawah ini --- #
 # permalink: /:year-:month-:day-:title/
-permalink:none
+permalink: /:year/:title/
 
 # --- permalink hanya judul --- #
 # permalink: /:title/
