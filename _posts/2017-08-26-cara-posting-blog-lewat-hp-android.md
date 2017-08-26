@@ -33,7 +33,7 @@ Baca : **cara menulis artikel dengan wordpress di Android.**
 
 
 ## Mrhyde for Android ##
-![mrhyde blogging apps jekyll for Android](mrhyde-jekyll-android.png)
+![mrhyde blogging apps jekyll for Android](/img/mrhyde-jekyll-android.png)
 **Mrhyde** adalah apss Android yang dapat digunakan untuk blogging yang dikembangkan untuk **jekyll**.
 
 Jadi dengan Mrhyde Anda bisa mengontrol dan menerbitkan artikel dengan Android. Jika Anda menggunakan jekyll sebagai mesin blog post Anda silahkan download apps ini di playstore.
