@@ -360,7 +360,7 @@ footer .theme-by {
   filter: grayscale(0%);
 }
 .post-image img {
-  border-radius: 100px;
+  /* --- border-radius: 100px; ---*/
   height: 192px;
   width: 192px;
 }
@@ -408,8 +408,9 @@ footer .theme-by {
 
 @media only screen and (max-width: 500px) {
   .post-image, .post-image img {
-    height: 100px;
-    width: 100px;
+    height: auto;
+    width: 100%;
+    margin-top: -30px;
   }
 
   .post-image {
@@ -417,6 +418,9 @@ footer .theme-by {
     text-align: center;
     margin-top: 0;
     float: left;
+    max-height: 150px;
+    overflow: hidden;
+    margin-bottom: 10px;
   }
 }
 /* --- Post and page headers --- */
