@@ -61,6 +61,6 @@ Saya tidak menyarankan Anda menggunakan apps blog yang satu ini. Alasanya karena
 
 Ada baiknya Anda bisa menggunakan komputer jika post blog dengan blogger. Jika Anda tetap ingin blogging dengan blogger di hp android, Anda bisa mencoba apps lainnya dari pihak ketiga. 
 
-Search saja dengan keyword blogger maka akan banyak muncul aplikasi blogpost yang mendukung blogger sebagai cma nya.
+Search saja dengan keyword blogger maka akan banyak muncul aplikasi blogpost yang mendukung blogger sebagai cms nya.
 
 Selain tiga apps di atas apa apps yang Anda gunakan untuk menulis artikel blog lewat hp android. Silahkan berkomentar dibawah ini.
