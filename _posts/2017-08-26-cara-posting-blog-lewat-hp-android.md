@@ -1,7 +1,7 @@
 ---
 layout: post
 title: cara posting blog lewat hp android
-subtitle: apps android bantu ngeblog lewat hp
+subtitle: tiga apps android yang membantu ngeblog lewat hp
 image: img/cara-posting-blog-lewat-android.png
 bigimg: img/cara-posting-blog-lewat-android.png
 ---
@@ -17,9 +17,12 @@ Karena kenyamanan dan fungsi Android yang membantu blogger menerbitakab artikel 
 
 Karena cms dan mesin blog ada banyak jadi akan saya paparkan semua apa saja cms atau mesin post blog yang mendukung untuk menulis dan menerbitkan artikel lewat hp Android. Berikut beberapa aplikasinya,
 
+
+
 ## wordpress for Android ##
 
 ![wordpress Android](/img/wordpress-apps.png)
+
 **Wordpress** memang cms yang sangat populer dikalangan blogger. Karena sifatnya open source jadi banyak juga yang secara sukarela mengembang template dan plugin. 
 
 ![Ngeblog dengan hp di Android](/img/wordpress-android.png)
@@ -32,8 +35,11 @@ Untuk ngeblog lewat hp Android dengan wordpress Anda bisa download di playstore.
 Baca : **cara menulis artikel dengan wordpress di Android.**
 
 
+
 ## Mrhyde for Android ##
+
 ![mrhyde blogging apps jekyll for Android](/img/mrhyde-jekyll-android.png)
+
 **Mrhyde** adalah apss Android yang dapat digunakan untuk blogging yang dikembangkan untuk **jekyll**.
 
 Jadi dengan Mrhyde Anda bisa mengontrol dan menerbitkan artikel dengan Android. Jika Anda menggunakan jekyll sebagai mesin blog post Anda silahkan download apps ini di playstore.
@@ -43,12 +49,14 @@ Untuk memperdalam tentang Jekyll baca : **apa itu Jekyll dan cara menggunakan je
 Untuk Anda yang sudah memiliki akun github silahkan login dengan github Anda. Setelah itu clone blog jekyll Anda yang di hosting di github. 
 
 Baca : 
-**1. Cara membuat akun github**
-**2. Cara membuat repositori di github**
-**3. Cara instal jekyll di github**
+1. **Cara membuat akun github**
+2. **Cara membuat repositori di github**
+3. **Cara instal jekyll di github**
+
 
 
 ## Blogger for Android ##
+
 Saya tidak menyarankan Anda menggunakan apps blog yang satu ini. Alasanya karena terakhir kali saya menghapus apps ini karena bermasalah sat ini upload gambar dan menyimpan draft. Semua draft yang saya simpan hilang saat apps ini saya keluarkan.  Gambar berhasil diunggah tapi tidak tampak saat dilihat di post artikel. 
 
 Ada baiknya Anda bisa menggunakan komputer jika post blog dengan blogger. Jika Anda tetap ingin blogging dengan blogger di hp android, Anda bisa mencoba apps lainnya dari pihak ketiga. 
