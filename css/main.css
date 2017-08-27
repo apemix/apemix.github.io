@@ -5,7 +5,7 @@
 body {
   font-family: Merriweather, Georgia, serif;
   font-size: 18px;
-  color: #404040;
+  color: #1a1a1a;
   position: relative;
   background: #FFF;
 }
@@ -20,7 +20,8 @@ p a {
 }
 h1,h2,h3,h4,h5,h6 {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 600;
+  font-weight: 700;
+  color: #1a1a1a;
 }
 a {
   color: #008AFF;
@@ -340,7 +341,8 @@ footer .theme-by {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  line-height: 1.75;
+    font-weight: 500;
 }
 .post-entry-container {
   display: inline-block;
