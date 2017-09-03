@@ -99,7 +99,7 @@ url-pretty: "www.frelab.tk"  # eg. "deanattali.com/beautiful-jekyll"
 disqus: "frelab"
 
 # Fill in your Google Analytics ID to track your website using GA
-#google_analytics: ""
+google_analytics: "UA-104911840-2"
 
 # Google Tag Manager ID
 #gtm: ""
