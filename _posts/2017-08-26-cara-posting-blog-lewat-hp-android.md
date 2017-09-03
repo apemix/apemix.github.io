@@ -4,6 +4,7 @@ title: cara posting blog lewat hp android
 subtitle: tiga apps android yang membantu ngeblog lewat hp
 image: img/cara-posting-blog-lewat-android.png
 bigimg: img/cara-posting-blog-lewat-android.png
+categories: - "tips"
 ---
 
 
