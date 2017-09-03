@@ -1,4 +1,0 @@
----
-tag: tips
-permalink: "/tips"
----
