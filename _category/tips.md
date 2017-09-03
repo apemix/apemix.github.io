@@ -1,4 +1,4 @@
 ---
 tag: tips
-permalink: "/category/tips"
+permalink: "/tips"
 ---
