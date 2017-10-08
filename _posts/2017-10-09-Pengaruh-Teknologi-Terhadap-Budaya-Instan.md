@@ -22,4 +22,4 @@ Pemikiran kurang realistis akan hadir karena kecepatan dan kemudahan teknologi y
 
 Lantas apa yang dapat kita petik adalah proses menjadikan kita lebih dewasa dan menghargai segala hal. Budaya instan memang dapat dipraktikan untuk hal-hal yang sifatnya kinerja. Namun tetap saja kita harua kembali sadar dengan hal-hal yang realistis beberapa waktu yang dapat saya habiskan untuk pekerjaan itu, menjadi realistis adalah cara yang membuat kita akan sadar dengan apa yang akan kita lakukan.
 
-Bacaan lebih lanjut : [budaya instan] (https://www.kompasiana.com/juneman/psikologi-budaya-instan_54f783b8a3331157778b45ae)
+Bacaan lebih lanjut : [budaya instan](https://www.kompasiana.com/juneman/psikologi-budaya-instan_54f783b8a3331157778b45ae/)
